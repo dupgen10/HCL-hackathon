@@ -10,6 +10,8 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 import json
 
 app = Flask(__name__)
+# Load model when the app starts (important for Render)
+
 
 # Global variables for model and encoders
 model = None
@@ -43,7 +45,7 @@ def load_model_and_preprocessors():
     except Exception as e:
         print(f"✗ Error loading model: {str(e)}")
         return False
-
+load_model_and_preprocessors()
 @app.route('/')
 def home():
     """Home page with prediction form"""
