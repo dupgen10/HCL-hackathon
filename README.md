@@ -3,8 +3,7 @@
 ## 📌 Project Overview
 This project focuses on predicting customer churn for a Telecommunications company using the **IBM Telco Customer Churn dataset**. By identifying at-risk customers early, the business can implement retention strategies to reduce revenue loss.
 
-**Key Challenge:** The dataset is **moderately imbalanced (~26.5% Churn vs. 73.5% Retention)**. Our solution prioritizes metrics like **Recall, F1-Score, and PR-AUC** over simple Accuracy to ensure we don't miss identifying churners.
-
+**Key Challenge:** The dataset is **moderately imbalanced (~26.5% Churn vs. 73.5% Retention)**. 
 ---
 
 ## 📊 Dataset Details
