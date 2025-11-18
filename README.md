@@ -320,6 +320,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
+## Working Screenshots
+
+<img width="467" height="661" alt="Screenshot 2025-11-18 at 8 28 47 PM" src="https://github.com/user-attachments/assets/dabb4c87-1f77-4689-9d23-733e3b1aaf42" />
+
+
 ## 📧 Contact
 
 For questions or feedback, reach out to:
