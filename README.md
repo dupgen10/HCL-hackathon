@@ -331,9 +331,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions or feedback, reach out to:
 
-- **Email:** your.email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
+- **Email:** dupgen.sherpa.ug22@nsut.ac.in , aryan.khurana.ug22@nsut.ac.in , himank.ug22@nsut.ac.in
+- **GitHub:** (https://github.com/dupgen10/HCL-hackathon)
+  
 
 ---
 
