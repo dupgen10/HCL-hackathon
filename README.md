@@ -52,13 +52,6 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - Selected evaluation metrics: Precision, Recall, F1-Score, ROC-AUC, PR-AUC, Confusion Matrix
 - Decided on API-first approach with FastAPI and optional React dashboard
 
-### 🔄 Setting Up Repositories, Environment, and Cloud Services
-- [x] Created GitHub repository for version control
-- [x] Selected IBM Telco dataset from Kaggle
-- [ ] Set up Python virtual environment (venv/conda)
-- [ ] Configured development tools (VS Code/PyCharm, Postman)
-- [ ] (Optional) Set up cloud deployment accounts (Railway/Render/Vercel)
-
 ### 📝 Listing Tasks (Backend, Frontend, etc.)
 
 **Sprint 1 Tasks - Core Development (3-4 hours):**
@@ -94,22 +87,20 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - Add error handling for missing/invalid inputs
 - Test with various customer profiles
 - Update README with final documentation and usage examples
-- (Optional) Deploy to cloud platform
+  Deploy to cloud platform
 - Prepare demo and presentation pitch
 
 ## 🛠️ Proposed Tech Stack
 
 **Backend:**
 - Python 3.8+ with FastAPI
-- scikit-learn, imbalanced-learn (SMOTE/ADASYN)
+- scikit-learn, imbalanced-learn (SMOTE)
 - pandas, numpy (data processing)
 - matplotlib, seaborn (visualizations)
 - XGBoost/LightGBM (advanced models)
 
 **Frontend (Optional):**
-- React.js with Material-UI
-- Axios for API calls
-- Chart.js for visualizations
+- React.js with Material-UI or Streamlit
 
 **Deployment (Optional):**
 - Railway/Render (backend hosting)
@@ -120,30 +111,7 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - Git & GitHub for version control
 - Jupyter Notebook for exploratory analysis
 - Postman/Swagger for API testing
-- VS Code/PyCharm for development
-
-## 📅 Sprint Timeline
-
-### Sprint 0: Planning & Setup ✅ **COMPLETED**
-**Duration:** 1-1.5 hours  
-**Deliverable:** Clear roadmap and approach documented in README
-
-### Sprint 1: Core Development ⏭️ **NEXT**
-**Duration:** 3-4 hours  
-**Deliverable:** Working prototype with ML model and functional API
-
-### Sprint 2: Refinement & Submission
-**Duration:** 1 hour  
-**Deliverable:** Fully functional MVP with documentation and demo
-
-## 👥 Team Roles
-
-| Role | Responsibilities |
-|------|------------------|
-| **ML Engineer** | Data preprocessing, model training, imbalance handling, evaluation metrics |
-| **Backend Developer** | FastAPI development, endpoint creation, model integration, API testing |
-| **Frontend Developer** (Optional) | React dashboard, API integration, UI/UX design |
-| **DevOps** (Optional) | Docker setup, cloud deployment, environment configuration |
+- VS Code for development
 
 ## 🎯 Success Criteria
 
@@ -175,16 +143,11 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - [scikit-learn User Guide](https://scikit-learn.org/stable/)
 - [imbalanced-learn SMOTE](https://imbalanced-learn.org/stable/)
 
-## 📞 Project Information
+##  Project Information
 
-- **Team Name:** [Your Team Name]
-- **GitHub Repository:** [Repository URL]
-- **Team Members:** [List names and roles]
-- **Contact:** [email@example.com]
+- **Team Name:** Team Nova
+
 
 ---
-
-**Sprint 0 Status:** ✅ Planning Complete  
-**Next Action:** Download dataset, set up environment, and begin Sprint 1 development
 
 Made for HCL Python Full-Stack Hackathon 2025 🚀
