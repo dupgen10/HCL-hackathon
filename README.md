@@ -1,4 +1,4 @@
-# 📡 IBM Telco Customer Churn Prediction
+#  Customer Churn Prediction
 
 ## 📌 Project Overview
 This project focuses on predicting customer churn for a Telecommunications company using the **IBM Telco Customer Churn dataset**. By identifying at-risk customers early, the business can implement retention strategies to reduce revenue loss.
