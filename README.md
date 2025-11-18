@@ -1,4 +1,6 @@
-# 🎯 Customer Churn Prediction - HCL Hackathon
+
+## 🎯 Customer Churn Prediction - HCL Hackathon
+
 
 > **Sprint 0: Planning & Setup Phase** - Ideation, strategy, and roadmap for the hackathon project.
 
