@@ -20,7 +20,7 @@ Customer churn is one of the biggest challenges for businesses. Our solution pre
 ### ✨ Key Features
 
 - 🧹 **Complete data preprocessing pipeline**
-- ⚖️ **Imbalanced data handling** (SMOTE / Class Weights)
+- ⚖️ **Imbalanced data handling** 
 - 🤖 **Multiple ML models** (Random Forest, XGBoost, Logistic Regression)
 - 📊 **Comprehensive evaluation metrics** (Recall, Precision, F1, ROC-AUC)
 - 🌐 **FastAPI backend** with `/predict` endpoint
@@ -163,7 +163,7 @@ The notebook covers:
 
 1. 📊 Data exploration
 2. 🧹 Preprocessing
-3. ⚖️ Imbalance handling (SMOTE / class weights)
+3. ⚖️ Imbalance handling 
 4. 🤖 Training ML models
 5. 📈 Evaluation metrics
 6. 💾 Exporting model
@@ -299,13 +299,6 @@ This helps businesses understand **why** a customer might churn and take targete
 
 ---
 
-## 🏆 Team
-
-| Role | Name |
-|------|------|
-| **Data Science Lead** | [Your Name] |
-| **Backend Developer** | [Team Member] |
-| **Frontend Developer** | [Team Member] (Optional) |
 
 ---
 
