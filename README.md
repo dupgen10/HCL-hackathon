@@ -99,10 +99,10 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - matplotlib, seaborn (visualizations)
 - XGBoost/LightGBM (advanced models)
 
-**Frontend (Optional):**
+**Frontend :**
 - React.js with Material-UI or Streamlit
 
-**Deployment (Optional):**
+**Deployment :**
 - Railway/Render (backend hosting)
 - Vercel (frontend hosting)
 - Docker (containerization)
@@ -112,6 +112,38 @@ We will be using the IBM Telco Customer Churn dataset for this project, which pr
 - Jupyter Notebook for exploratory analysis
 - Postman/Swagger for API testing
 - VS Code for development
+
+
+**Directory Breakdown:**
+
+- **`data/`** - Dataset storage
+  - `raw/`: Original IBM Telco dataset
+  - `processed/`: Cleaned and preprocessed data
+
+- **`notebooks/`** - Jupyter notebooks for exploration and experimentation
+  - EDA, model training, and evaluation notebooks
+
+- **`models/`** - Saved trained models and preprocessing artifacts
+  - Serialized model, scaler, and encoder files
+
+- **`src/`** - Main source code
+  - `data/`: Data loading and preprocessing modules
+  - `models/`: Model training and evaluation scripts
+  - `api/`: FastAPI application with routers and schemas
+
+- **`tests/`** - Unit and integration tests
+  - Test files for preprocessing, model, and API
+
+- **`frontend/`** - Optional React dashboard
+  - Standard React project structure
+
+- **`docs/`** - Documentation and visualizations
+  - Generated plots and API documentation
+
+- **Root files** - Configuration and documentation
+  - `.env.example`: Environment variable template
+  - `requirements.txt`: Python dependencies
+  - `Dockerfile`: Container configuration
 
 ## 🎯 Success Criteria
 
